@@ -72,3 +72,12 @@ rules-overworld-sea-forest-border.tmx
 rules-overworld-sea-forest-inner-corner.tmx
 rules-overworld-sea-forest-outer-corner.tmx
 
+
+
+rules-overworld-hills-filling.tmx
+rules-overworld-grass-hills-border.tmx
+rules-overworld-grass-hills-inner-corner.tmx
+rules-overworld-grass-hills-outer-corner.tmx
+rules-overworld-forest-hills-border.tmx
+rules-overworld-forest-hills-inner-corner.tmx
+rules-overworld-forest-hills-outer-corner.tmx
