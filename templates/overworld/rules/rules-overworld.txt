@@ -74,18 +74,46 @@ rules-overworld-sea-forest-outer-corner.tmx
 
 
 
-#rules-overworld-torrent-plain-trimming.tmx
-#rules-overworld-torrent-plain-border.tmx
-#rules-overworld-torrent-plain-inner-corner.tmx
-#rules-overworld-torrent-plain-outer-corner.tmx
-#rules-overworld-torrent-desert-trimming.tmx
-#rules-overworld-torrent-desert-border.tmx
-#rules-overworld-torrent-desert-inner-corner.tmx
-#rules-overworld-torrent-desert-outer-corner.tmx
-#rules-overworld-torrent-forest-trimming.tmx
-#rules-overworld-torrent-forest-border.tmx
-#rules-overworld-torrent-forest-inner-corner.tmx
-#rules-overworld-torrent-forest-outer-corner.tmx
+
+
+rules-overworld-plain-grass-trimming.tmx
+rules-overworld-plain-grass-border.tmx
+rules-overworld-plain-grass-inner-corner.tmx
+rules-overworld-plain-grass-outer-corner.tmx
+rules-overworld-grass-forest-trimming.tmx
+rules-overworld-grass-forest-border.tmx
+rules-overworld-grass-forest-inner-corner.tmx
+rules-overworld-grass-forest-outer-corner.tmx
+rules-overworld-path-grass-trimming.tmx
+rules-overworld-path-grass-border.tmx
+rules-overworld-path-grass-inner-corner.tmx
+rules-overworld-path-grass-outer-corner.tmx
+rules-overworld-sea-grass-trimming.tmx
+rules-overworld-sea-grass-border.tmx
+rules-overworld-sea-grass-inner-corner.tmx
+rules-overworld-sea-grass-outer-corner.tmx
+rules-overworld-river-grass-trimming.tmx
+rules-overworld-river-grass-border.tmx
+rules-overworld-river-grass-inner-corner.tmx
+rules-overworld-river-grass-outer-corner.tmx
+rules-overworld-torrent-grass-trimming.tmx
+rules-overworld-torrent-grass-border.tmx
+rules-overworld-torrent-grass-inner-corner.tmx
+rules-overworld-torrent-grass-outer-corner.tmx
+
+
+rules-overworld-torrent-plain-trimming.tmx
+rules-overworld-torrent-plain-border.tmx
+rules-overworld-torrent-plain-inner-corner.tmx
+rules-overworld-torrent-plain-outer-corner.tmx
+rules-overworld-torrent-desert-trimming.tmx
+rules-overworld-torrent-desert-border.tmx
+rules-overworld-torrent-desert-inner-corner.tmx
+rules-overworld-torrent-desert-outer-corner.tmx
+rules-overworld-torrent-forest-trimming.tmx
+rules-overworld-torrent-forest-border.tmx
+rules-overworld-torrent-forest-inner-corner.tmx
+rules-overworld-torrent-forest-outer-corner.tmx
 
 
 
@@ -101,10 +129,10 @@ rules-overworld-sea-hills-inner-corner.tmx
 rules-overworld-sea-hills-outer-corner.tmx
 rules-overworld-river-hills-border.tmx
 rules-overworld-river-hills-inner-corner.tmx
-#rules-overworld-torrent-hills-outer-corner.tmx
-#rules-overworld-torrent-hills-border.tmx
-#rules-overworld-torrent-hills-inner-corner.tmx
 rules-overworld-river-hills-outer-corner.tmx
+rules-overworld-torrent-hills-border.tmx
+rules-overworld-torrent-hills-inner-corner.tmx
+rules-overworld-torrent-hills-outer-corner.tmx
 rules-overworld-desert-hills-border.tmx
 rules-overworld-desert-hills-inner-corner.tmx
 rules-overworld-desert-hills-outer-corner.tmx
@@ -115,12 +143,13 @@ rules-overworld-mountains-filling.tmx
 rules-overworld-sea-mountains-border.tmx
 rules-overworld-sea-mountains-inner-corner.tmx
 rules-overworld-sea-mountains-outer-corner.tmx
-#rules-overworld-river-mountains-border.tmx
-#rules-overworld-river-mountains-inner-corner.tmx
-#rules-overworld-river-mountains-outer-corner.tmx
-#rules-overworld-torrent-mountains-border.tmx
-#rules-overworld-torrent-mountains-inner-corner.tmx
-#rules-overworld-torrent-mountains-outer-corner.tmx
+rules-overworld-river-mountains-trimming.tmx
+rules-overworld-river-mountains-border.tmx
+rules-overworld-river-mountains-inner-corner.tmx
+rules-overworld-river-mountains-outer-corner.tmx
+rules-overworld-torrent-mountains-border.tmx
+rules-overworld-torrent-mountains-inner-corner.tmx
+rules-overworld-torrent-mountains-outer-corner.tmx
 #rules-overworld-hills-mountains-border.tmx
 #rules-overworld-hills-mountains-inner-corner.tmx
 #rules-overworld-hills-mountains-outer-corner.tmx
