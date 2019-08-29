@@ -72,10 +72,6 @@ rules-overworld-sea-forest-border.tmx
 rules-overworld-sea-forest-inner-corner.tmx
 rules-overworld-sea-forest-outer-corner.tmx
 
-
-
-
-
 rules-overworld-plain-grass-trimming.tmx
 rules-overworld-plain-grass-border.tmx
 rules-overworld-plain-grass-inner-corner.tmx
@@ -150,9 +146,9 @@ rules-overworld-river-mountains-outer-corner.tmx
 rules-overworld-torrent-mountains-border.tmx
 rules-overworld-torrent-mountains-inner-corner.tmx
 rules-overworld-torrent-mountains-outer-corner.tmx
-#rules-overworld-hills-mountains-border.tmx
-#rules-overworld-hills-mountains-inner-corner.tmx
-#rules-overworld-hills-mountains-outer-corner.tmx
-#rules-overworld-forest-mountains-border.tmx
-#rules-overworld-forest-mountains-inner-corner.tmx
-#rules-overworld-forest-mountains-outer-corner.tmx
+rules-overworld-hills-mountains-border.tmx
+rules-overworld-hills-mountains-inner-corner.tmx
+rules-overworld-hills-mountains-outer-corner.tmx
+rules-overworld-forest-mountains-border.tmx
+rules-overworld-forest-mountains-inner-corner.tmx
+rules-overworld-forest-mountains-outer-corner.tmx
