@@ -1,4 +1,3 @@
 
-templates/overworld/maplayout.png
-templates/overworld/map78_mockup.png
+templates/overworld/*.png
 *.bak
