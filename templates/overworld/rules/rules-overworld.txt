@@ -6,15 +6,15 @@
 rules-overworld-path-randomizing.tmx
 
 
-rules-overworld-sea-sand-trimming.tmx
-rules-overworld-sea-sand-border.tmx
-rules-overworld-sea-sand-inner-corner.tmx
-rules-overworld-sea-sand-outer-corner.tmx
 
 rules-overworld-sea-plain-trimming.tmx
 rules-overworld-sea-plain-border.tmx
 rules-overworld-sea-plain-inner-corner.tmx
 rules-overworld-sea-plain-outer-corner.tmx
+rules-overworld-sea-sand-trimming.tmx
+rules-overworld-sea-sand-border.tmx
+rules-overworld-sea-sand-inner-corner.tmx
+rules-overworld-sea-sand-outer-corner.tmx
 
 rules-overworld-river-plain-trimming.tmx
 rules-overworld-river-plain-border.tmx
