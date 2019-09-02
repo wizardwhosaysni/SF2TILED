@@ -158,3 +158,4 @@ rules-overworld-forest-mountains-outer-corner.tmx
 rules-overworld-plain-river-3type-intersection-fixes.tmx
 rules-overworld-plain-sea-3type-intersection-fixes.tmx
 rules-overworld-forest-corner-fixes.tmx
+rules-overworld-grass-corner-fixes.tmx
